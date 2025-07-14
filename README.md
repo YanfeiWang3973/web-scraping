@@ -60,6 +60,4 @@ This project focuses on end-to-end data analysis of real estate listings scraped
 
 ---
 
-## ✨ Author
-Created by [@FeiW](https://github.com/yourusername) — lover of clean data, sharp visuals, and Craigslist chaos.
 
